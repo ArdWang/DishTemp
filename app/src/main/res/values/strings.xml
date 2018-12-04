@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DishTemp</string>
+    <string name="multiple">Multiple units</string>
+    <string name="single">Single unit</string>
+</resources>
